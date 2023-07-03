@@ -6,5 +6,6 @@
 
 <!---
 Joycewangui/Joycewangui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview lin to take a look at your changes.
 --->
+<docttype!><html> <Head> <h1> characteristics of websites<\h1> <p> browsers<br> chrome<br> .has fast page loading <br> .has a built search bar<br> .it has a multitab interefacecontrol<br> mozilla fire fox< br> .has been backed up by gecko engine <br> .has inbuilt download manager<br> .has a fast downloading manager <br> top browsers<br> .it is portable <br> .does not reavel the ip of the browsers<br> .anonymous usage of the browsers<br> safari .it has a smartdress bar <br> .it has tabbed browsing <br> .has extended supports of htmls <br> internet explroler <br> .has 33 language support <br> .has a smart search suggestions <br> .has an enhanced perfomance <br> microsoft edge<br> .helps in reading view <br> .it implements cortana <br> .its news feeds on start up page <br> .has intergrated share parnel <br>
