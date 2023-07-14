@@ -2,10 +2,24 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Joycewangui/Joycewangui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview lin to take a look at your changes.
---->
-<docttype!><html> <Head> <h1> characteristics of websites<\h1> <p> browsers<br> chrome<br> .has fast page loading <br> .has a built search bar<br> .it has a multitab interefacecontrol<br> mozilla fire fox< br> .has been backed up by gecko engine <br> .has inbuilt download manager<br> .has a fast downloading manager <br> top browsers<br> .it is portable <br> .does not reavel the ip of the browsers<br> .anonymous usage of the browsers<br> safari .it has a smartdress bar <br> .it has tabbed browsing <br> .has extended supports of htmls <br> internet explroler <br> .has 33 language support <br> .has a smart search suggestions <br> .has an enhanced perfomance <br> microsoft edge<br> .helps in reading view <br> .it implements cortana <br> .its news feeds on start up page <br> .has intergrated share parnel <br>
+- 📫 How to reach me <!DOCTYPE>
+<html>
+<head>REGISTER FOR A GIVEN COURSE</HEAD>
+<form>
+<body text="blue">
+<h1>enter students name</h1>
+<input>text</input>
+<h2>telephone number</h>>
+<input>number</input>
+<h3>date of birth</h3>
+<input >date</input>
+<h4>admission number</h4>
+<input>text</input>
+<h5>identify the course </h5>
+<input>CBIT OR CIT </input>
+<h6>gender options</h6>
+<input>male or female</input>
+<button type="submit"</button>
+</form>
+</body>
+</html>
